@@ -3,8 +3,11 @@ Este repositorio contiene pequeñas páginas dedicadas a tres Pokémon únicos: 
 Contenido
 
 | Pokémon | Archivo | Articulo del Pokemón |
-Snorlax** | `index-snorlax.html` |
+
+Snorlax | `index-snorlax.html` |
+
 Minior Blue Meteor| `pag-2.html` |
+
 Sinistea| `pag-3.html` |
 
 Objetivo
